@@ -1,0 +1,7 @@
+/airbyte
+/dbt-env
+/logs
+/airflow/dags/__pycache__
+/tranformations/dbt_packages
+/tranformations/logs
+/tranformations/target
